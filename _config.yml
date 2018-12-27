@@ -18,7 +18,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 title                    : "팀명"
 description              : "한 줄 소개"
 url                      : "https://onlypassionand.github.io" # 예: https://ssafy2018.github.io"
-baseurl                  : "my" # "public"
+baseurl                  : "/my" # "public"
 
 # Site Settings
 locale                   : "en-US"
